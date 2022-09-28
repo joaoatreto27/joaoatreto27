@@ -1,7 +1,7 @@
 ### Hi, i'am João Antonio Treto 👋
 
 - 🔭 I’m currently working on Front-End! 
-- 🌱 I’m currently learning React!
+- 🌱 I’m currently learning React and JavaScript!
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
