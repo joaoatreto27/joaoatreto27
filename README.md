@@ -1,6 +1,6 @@
 ### Hi, i'am João Antonio Treto 👋
 
-- 🔭 I’m currently working on React and JavaScript! 
+- 🔭 I’m currently working on Front-End! 
 - 🌱 I’m currently learning React!
 
 <div align="center">
