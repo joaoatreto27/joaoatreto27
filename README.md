@@ -1,8 +1,5 @@
 ### Hi, i'am João Antonio Treto 👋
 
-- 🔭 I’m currently working on Front-End! 
-- 🌱 I’m currently learning Java and Spring Boot!
-
 <div align="center">
   <a href="https://github.com/joaoatreto27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoatreto27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
